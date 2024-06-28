@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on evaluating over 7000 Metal-Organic Frameworks (MOFs) for their suitability in an adsorption refrigeration cycle utilizing propane as the working fluid. The primary objective is to determine which MOFs exhibit the highest Coefficient of Performance (COP), indicating optimal efficiency in this application.
+This project focuses on evaluating over 7000 Metal-Organic Frameworks (MOFs) for their suitability in an adsorption refrigeration cycle utilizing propane as the working fluid. The primary objective is to determine which MOFs exhibit the highest Coefficient of Performance (COP), indicating optimal efficiency in this application and to minimize the computational cost.
 
 ## Methodology
 
